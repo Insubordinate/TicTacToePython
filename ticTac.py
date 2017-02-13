@@ -1,6 +1,6 @@
 #this creates the board as a series of variables with number assigned to them; 
 #the appropriate x/o or empty value assigned to it.
-
+#hooplah
 a="1"
 b="2"
 c="3"
